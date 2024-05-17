@@ -1,0 +1,6 @@
+Firstly 
+Working Directory->(git add)->Staging area(Choose which files to be commited)
+
+Staging area->(git commit)->Local Repository(The files here are commited)
+
+Local repository->(git push)-> Remote Repository(GitHUB)
